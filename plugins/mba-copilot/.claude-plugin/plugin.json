@@ -1,0 +1,7 @@
+{
+  "name": "mba-copilot",
+  "version": "0.2.0",
+  "description": "Sandy's MBA co-pilot: MBA context in every session, auto-loads the sandy-mba skill, and adds /mba, /mba-check, /mba-study and /mba-sync",
+  "author": { "name": "Sandeep Shekhar" },
+  "keywords": ["mba", "canvas", "study", "assignments"]
+}

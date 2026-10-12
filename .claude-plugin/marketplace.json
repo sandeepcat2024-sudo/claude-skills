@@ -1,0 +1,11 @@
+{
+  "name": "sandy-claude-skills",
+  "owner": { "name": "Sandeep Shekhar" },
+  "plugins": [
+    {
+      "name": "mba-copilot",
+      "source": "./plugins/mba-copilot",
+      "description": "MBA co-pilot: Canvas sync, assignment review and course tutoring"
+    }
+  ]
+}
